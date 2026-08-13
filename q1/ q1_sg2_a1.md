@@ -32,12 +32,12 @@ IF Given change = Correct change THEN\
 ELSE\
   Change is incorrect\
   Find Problem\
-IF Problem is the dispenser THEN\\
+IF Problem is the dispenser THEN\
   change dispenser\
 IF Problem is coin sensor THEN\
   change sensor\
 IF Problem is program THEN\
-  fix program\\
+  fix program
 
 END
 
