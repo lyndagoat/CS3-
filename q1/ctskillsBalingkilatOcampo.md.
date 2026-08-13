@@ -16,7 +16,7 @@ For each sub-problem, apply CT skills:
 1. Wrong change given - Algorithm - Running a program check and fixing errors within it can help avoid errors when the machine computes for a user’s amount of change.
 2. Malfunctioning after a few uses - Decomposition - The machine might be malfunctioning due to complex/unclear instructions. Decomposition would help to simplify the processes for the machine to avoid malfunctioning.
 3. Wrong item delivery - Abstraction - Learning why the machine gives the wrong item to the buyer once can help us fix the whole thing.
-4.) machine not notifying when an item is unavailable - pattern recognition - the machine can recognize the pattern of the item being unavailable once it has reached a quantity of 0. the machine can display an out of stock text to notify the user that the item is unavailable
+4. machine not notifying when an item is unavailable - pattern recognition - the machine can recognize the pattern of the item being unavailable once it has reached a quantity of 0. the machine can display an out of stock text to notify the user that the item is unavailable
 
 Pseudocode:
 
