@@ -1,9 +1,10 @@
-SECTION: 9 - Balingkilat
-C#/NAME: #28 OCAMPO, LYNDZEE RAYE G.
+SECTION: 9 - Balingkilat\
+C#/NAME: #28 OCAMPO, LYNDZEE RAYE G.\
 DATE: August 12, 2026
-
+---
+Group mates: #29 Panahon, Mesiah Gail M. #30 Soriano, Marriane Audrey F.\
 Main Problem:
--The new vending machine that was installed is inefficient and has a lot of defects. It sometimes gives the wrong change, doesn't work properly when multiple students use it, gives the wrong item and can't track inventory properly.
+- The new vending machine that was installed is inefficient and has a lot of defects. It sometimes gives the wrong change, doesn't work properly when multiple students use it, gives the wrong item and can't track inventory properly.
 
 Sub-Problems:
 1. The vending machine sometimes gives the wrong change.
@@ -22,21 +23,21 @@ Pseudocode:
 
 START
 
-Check the price of the item
-Check the amount of money the buyer gave
-Calculate the correct amount of change to be given to the buyer
-IF Given change = Correct change THEN
-  Change is correct
-  END
-ELSE 
-  Change is incorrect
-  Find Problem
-IF Problem is the dispenser THEN
-  change dispenser
-IF Problem is coin sensor THEN
-  change sensor
-IF Problem is program THEN
-  fix program
+Check the price of the item\
+Check the amount of money the buyer gave\
+Calculate the correct amount of change to be given to the buyer\
+IF Given change = Correct change THEN\
+  Change is correct\
+  END\
+ELSE\
+  Change is incorrect\
+  Find Problem\
+IF Problem is the dispenser THEN\\
+  change dispenser\
+IF Problem is coin sensor THEN\
+  change sensor\
+IF Problem is program THEN\
+  fix program\\
 
 END
 
