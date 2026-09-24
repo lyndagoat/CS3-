@@ -4,8 +4,8 @@ class Tusoktusok:
       self. name = name
     def dip (self, sauce) :
       self. sauce = sauce
-def eat (self) :
-    print ("It was dipped in,", self. sauce name, "and it tastes", self.sauce.taste)
+    def eat (self) :
+        print ("It was dipped in,", self. sauce name, "and it tastes", self.sauce.taste)
 class Sauce:
     def _init_(self, name, taste) :
     self.name = name
